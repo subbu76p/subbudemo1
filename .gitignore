@@ -1,2 +1,5 @@
 t1.txt
 webconfig1.txt
+reports/
+*.exe
+
